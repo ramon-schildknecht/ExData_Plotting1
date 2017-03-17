@@ -10,5 +10,5 @@ To run the code follow the steps below:
 2. Run each script and enjoy the results
 
 Hints:
-- I removed x axis lable in plot 4 for better readabilty and created a standardized y axis labelling.
+- I removed x axis label in plot 4 for better readabilty and created a standardized y axis labelling.
 - My plotted days are in German. If you are running the scripts you'll get the language accoring your settings.
